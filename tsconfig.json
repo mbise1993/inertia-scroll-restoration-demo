@@ -1,9 +1,10 @@
 {
-  "compilerOptions": {
-    "isolatedModules": true,
-    "allowSyntheticDefaultImports": true,
-    "jsx": "react-jsx",
-    "module": "ESNext",
-    "moduleResolution": "node"
-  }
+    "compilerOptions": {
+        "isolatedModules": true,
+        "allowSyntheticDefaultImports": true,
+        "jsx": "react-jsx",
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "lib": ["ESNext"]
+    }
 }
